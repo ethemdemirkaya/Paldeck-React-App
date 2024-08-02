@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Lamball",
+    "photo": "/assets/images/Lamball.png",
+    "color": "bg-white",
+    "borderColor": "border-white",
+    "desc": "Big Floof",
+    "elements": ["Neutral"],
+    "works": [
+      {"work": "Handiwork", "level": 1},
+      {"work": "Transporting", "level": 1},
+      {"work": "Farming", "level": 1}
+    ],
+    "drops": "Wool, Lamball Mutton"
+  },
+  {
+    "id": 2,
+    "name": "Pengullet",
+    "photo": "/assets/images/Fuack.png",
+    "color": "bg-blue-300",
+    "borderColor": "border-blue-300",
+    "desc": "Ate Too Much",
+    "elements": ["Water","Ice"],
+    "works": [
+      {"work": "Handiwork", "level": 1},
+      {"work": "Transporting", "level": 1},
+      {"work": "Farming", "level": 1}
+    ],
+    "drops": "Ice Organ"
+  }
+]
